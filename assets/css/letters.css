@@ -1,0 +1,12 @@
+.letters-style {
+	display: inline-block;
+
+	width: 50px;
+	margin: 6px 10px;
+
+	font-family: 'Covered By Your Grace', cursive;
+	font-size: 37pt;
+	color: #6fe7db;
+	color: transparent;
+   	text-shadow: 0px 0px 1px rgba(111, 231, 219,1);
+}

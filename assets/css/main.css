@@ -1,0 +1,126 @@
+body {
+	background-image: url(../images/blackboard.jpg);
+}
+
+
+#start-box {
+	font-family: 'Covered By Your Grace', cursive;
+	font-size: 35pt;
+
+	color: #f4f4f0;
+	color: transparent;
+	text-shadow: 0px 0px 1px rgba(244, 244, 240,1);
+	text-align: center;
+	margin-top: 250px;
+}
+
+
+#title-row {
+	height: 140px;
+	text-align: center;
+}
+
+#hangman-col {
+	height:200px;
+}
+
+#hangman-col img {
+	float: right;
+	position: relative;
+	right: -55px;
+}
+
+#gameboard-row {
+	height:200px;
+	text-align: center;
+}
+
+#guess-row{
+	height:200px;
+	
+}
+
+#letters-row {
+	height:200px;
+	padding-top: 50px;
+}
+
+#letters-area {
+	text-align: center;
+}
+
+#footer {
+	height: 50px;
+}
+
+
+#main-title {
+	font-family: 'Rock Salt', cursive;
+	font-size: 45pt;
+
+	color: #d6d963;
+	color: transparent;
+	text-shadow: 0px 0px 1px rgba(214, 217, 99,1);
+}
+
+#sub-title {
+	font-family: 'Covered By Your Grace', cursive;
+	font-size: 17pt;
+
+	color: #d6d963;
+	color: transparent;
+	text-shadow: 0px 0px 1px rgba(214, 217, 99,1);
+
+	position: relative;
+	top: -20px;
+}
+
+#win-lose-alert {
+	font-family: 'Covered By Your Grace', cursive;
+	font-size: 120px;
+	color: transparent;
+	transform: rotate(-25deg);
+	position: relative;
+	z-index: 3;
+}
+
+#gewonnen, #verloren {
+	font-family: 'Covered By Your Grace', cursive;
+	font-size: 17pt;
+
+	color: #f4f4f0;
+	color: transparent;
+	text-shadow: 0px 0px 1px rgba(244, 244, 240,1);
+	text-align: center;
+
+	padding-top: 15px;
+	height: 100%;
+}
+
+#gewonnen-num, #verloren-num {
+	font-family: 'Covered By Your Grace', cursive;
+	font-size: 17pt;
+
+	color: #f4f4f0;
+	color: transparent;
+	text-shadow: 0px 0px 1px rgba(244, 244, 240,1);
+	text-align: center;
+}
+
+#remaining-guesses-num {
+
+	font-family: 'Covered By Your Grace', cursive;
+	font-size: 30pt;
+
+	color: #f2a3bd;
+	color: transparent;
+	text-shadow: 0px 0px 1px rgba(242, 163, 189,1);
+
+	height: 100%;
+	text-align: right;
+
+
+}
+
+
+

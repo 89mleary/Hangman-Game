@@ -1,0 +1,12 @@
+.guess-style {
+	display: inline-block;
+	margin: 120px 25px 44px 25px;
+	width: 50px;
+
+	font-family: 'Covered By Your Grace', cursive;
+	font-size: 45pt;
+
+	color: #f2a3bd;
+	color: transparent;
+	text-shadow: 0px 0px 1px rgba(242, 163, 189,1);
+}
